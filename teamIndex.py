@@ -23,4 +23,18 @@ for i in playerCount:
 
 
 #Table 9 seems to carry all goalie data
-print soup.find_all('table')[9]
+print soup.find_all('table')[9].findAll('tr')[1]
+print
+
+
+#Table 10 is schedules and scores
+##We'll need to capture the urls here to parse for scoring data
+schedCount = range(1,len(soup.find_all('table')[10]) - 2)
+for i in schedCount:
+    print soup.find_all('table')[10].findAll('tr')[i].findAll('td')[0].string,\
+        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[1].string,\
+        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[2].string,\
+        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[3].string,\
+        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[4].string,\
+        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[5].string,\
+        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[6].string
