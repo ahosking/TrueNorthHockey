@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 soup = BeautifulSoup(urllib2.urlopen("http://www.truenorthhockey.com/asp_pages/Team.aspx?team_id=17178").read())
 
 # print soup.prettify()
-print len(soup.find_all('table')[8].findAll('tr'))
 
 #Table 8 seems to carry all player data
 # print soup.find_all('table')[8]
@@ -20,10 +19,17 @@ for i in playerCount:
         soup.find_all('table')[8].findAll('tr')[i].findAll('td')[4].string,"\t",\
         soup.find_all('table')[8].findAll('tr')[i].findAll('td')[5].string,"\t",\
         soup.find_all('table')[8].findAll('tr')[i].findAll('td')[6].string
-
+print
 
 #Table 9 seems to carry all goalie data
-print soup.find_all('table')[9].findAll('tr')[1]
+goalieCount = range(1,len(soup.find_all('table')[9]) - 2)
+print "Player\tGP\tGA\tGAA\tShO"
+for i in goalieCount:
+    print soup.find_all('table')[9].findAll('tr')[i].findAll('td')[1].string,"\t",\
+    soup.find_all('table')[9].findAll('tr')[i].findAll('td')[2].string,"\t",\
+    soup.find_all('table')[9].findAll('tr')[i].findAll('td')[3].string,"\t",\
+    soup.find_all('table')[9].findAll('tr')[i].findAll('td')[4].string,"\t",\
+    soup.find_all('table')[9].findAll('tr')[i].findAll('td')[5].string
 print
 
 
@@ -38,3 +44,7 @@ for i in schedCount:
         soup.find_all('table')[10].findAll('tr')[i].findAll('td')[4].string,\
         soup.find_all('table')[10].findAll('tr')[i].findAll('td')[5].string,\
         soup.find_all('table')[10].findAll('tr')[i].findAll('td')[6].string
+print
+
+#We need to find links to the score sheets
+print (soup.find_all('table')[10].findAll('tr')[6].findAll('a')[1]).get('href')
