@@ -21,10 +21,7 @@ with con:
 
     #Create the Games Table
     try:
-        cur.execute("CREATE TABLE Games(Id INTEGER PRIMARY KEY AUTOINCREMENT, Date TEXT, Time TEXT, Rink TEXT, Home_Team TEXT, Home_Score INT, Away_Team TEXT, Away_Score INT)")
+        cur.execute("CREATE TABLE Games(Id INTEGER PRIMARY KEY AUTOINCREMENT, Date TEXT, Time TEXT, Rink TEXT,\
+         Home_Team TEXT, Home_Score INT, Away_Team TEXT, Away_Score INT, Season TEXT)")
     except:
         pass
-
-    #Add a game
-    # cur.execute("INSERT INTO Games VALUES(null, 'Sep 14', '21:00', 'Rinx 1', 'Toronto Ice Dogs', 4, 'Shock', 6)")
-    # cur.execute("INSERT INTO Games VALUES(null, 'Sep 21', '17:15', 'Rinx 2', 'Lucky Pucks', 6, 'Toronto Ice Dogs', 6)")

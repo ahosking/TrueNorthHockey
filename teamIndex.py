@@ -12,7 +12,8 @@ def add_games(new_games):
     with con:
         cur = con.cursor()
         for i in new_games:
-            cur.execute("INSERT INTO Games VALUES(null, ?, ?, ?, ?, ?, ?, ?)", (i[0], i[1], i[2], i[3], i[4], i[5], i[6]))
+            cur.execute("INSERT INTO Games VALUES(null, ?, ?, ?, ?, ?, ?, ?, ?)",\
+                        (i[0], i[1], i[2], i[3], i[4], i[5], i[6], i[7]))
             # cur.execute("INSERT INTO Games VALUES(null, 'Sep 14', '21:00', 'Rinx 1', 'Toronto Ice Dogs', 4, 'Shock', 6)")
 
 
@@ -62,6 +63,7 @@ for i in schedCount:
     game.append(soup.find_all('table')[10].findAll('tr')[i].findAll('td')[4].string)
     game.append(soup.find_all('table')[10].findAll('tr')[i].findAll('td')[5].string)
     game.append(soup.find_all('table')[10].findAll('tr')[i].findAll('td')[6].string)
+    game.append("Winter2014")
     games.append(game)
     # print soup.find_all('table')[10].findAll('tr')[i].findAll('td')[0].string,\
     #     soup.find_all('table')[10].findAll('tr')[i].findAll('td')[1].string,\
