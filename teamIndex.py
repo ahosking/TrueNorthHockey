@@ -1,5 +1,21 @@
 import urllib2
 from bs4 import BeautifulSoup
+import sqlite3 as lite
+import sys
+
+con = None
+
+def add_games(new_games):
+    #Make DB Connection
+    con = lite.connect('new.db')
+
+    with con:
+        cur = con.cursor()
+        for i in new_games:
+            cur.execute("INSERT INTO Games VALUES(null, ?, ?, ?, ?, ?, ?, ?)", (i[0], i[1], i[2], i[3], i[4], i[5], i[6]))
+            # cur.execute("INSERT INTO Games VALUES(null, 'Sep 14', '21:00', 'Rinx 1', 'Toronto Ice Dogs', 4, 'Shock', 6)")
+
+
 
 soup = BeautifulSoup(urllib2.urlopen("http://www.truenorthhockey.com/asp_pages/Team.aspx?team_id=17178").read())
 
@@ -36,15 +52,27 @@ print
 #Table 10 is schedules and scores
 ##We'll need to capture the urls here to parse for scoring data
 schedCount = range(1,len(soup.find_all('table')[10]) - 2)
+games = []
 for i in schedCount:
-    print soup.find_all('table')[10].findAll('tr')[i].findAll('td')[0].string,\
-        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[1].string,\
-        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[2].string,\
-        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[3].string,\
-        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[4].string,\
-        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[5].string,\
-        soup.find_all('table')[10].findAll('tr')[i].findAll('td')[6].string
-print
+    game = []
+    game.append(soup.find_all('table')[10].findAll('tr')[i].findAll('td')[0].string)
+    game.append(soup.find_all('table')[10].findAll('tr')[i].findAll('td')[1].string)
+    game.append(soup.find_all('table')[10].findAll('tr')[i].findAll('td')[2].string)
+    game.append(soup.find_all('table')[10].findAll('tr')[i].findAll('td')[3].string)
+    game.append(soup.find_all('table')[10].findAll('tr')[i].findAll('td')[4].string)
+    game.append(soup.find_all('table')[10].findAll('tr')[i].findAll('td')[5].string)
+    game.append(soup.find_all('table')[10].findAll('tr')[i].findAll('td')[6].string)
+    games.append(game)
+    # print soup.find_all('table')[10].findAll('tr')[i].findAll('td')[0].string,\
+    #     soup.find_all('table')[10].findAll('tr')[i].findAll('td')[1].string,\
+    #     soup.find_all('table')[10].findAll('tr')[i].findAll('td')[2].string,\
+    #     soup.find_all('table')[10].findAll('tr')[i].findAll('td')[3].string,\
+    #     soup.find_all('table')[10].findAll('tr')[i].findAll('td')[4].string,\
+    #     soup.find_all('table')[10].findAll('tr')[i].findAll('td')[5].string,\
+    #     soup.find_all('table')[10].findAll('tr')[i].findAll('td')[6].string
+add_games(games)
+
+
 
 #We need to find links to the score sheets
 print (soup.find_all('table')[10].findAll('tr')[6].findAll('a')[1]).get('href')
