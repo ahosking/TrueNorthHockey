@@ -37,9 +37,11 @@ with con:
 
 def createGameSheets():
     # Game Index Number Per	Time	Player#	PIM	Penalty   Season
-    cur.execute("CREATE TABLE gameSheets(GameIndex INT, roster_number TEXT, roster_name TEXT, roster_goals INT,\
-     roster_assists INT, roster_points INT, roster_pim INT, goals_period INT, goals_time TEXT, goals_assist1 TEXT,\
-     goals_assist2 TEXT, penalty_period INT, penalty_time TEXT, penalty_player INT, penalty_pim INT,\
+    cur.execute("CREATE TABLE gameSheets(GameIndex INT,\
+     game_date TEXT, game_time TEXT, game_rink TEXT, game_ref1 TEXT, game_ref2 TEXT,\
+     roster_number TEXT, roster_name TEXT, roster_goals INT, roster_assists INT, roster_points INT, roster_pim INT,\
+     goals_period INT, goals_time TEXT, goals_assist1 TEXT, goals_assist2 TEXT,\
+     penalty_period INT, penalty_time TEXT, penalty_player INT, penalty_pim INT,\
      penalty_call TEXT)")
     print "Game sheet creation succeeded?!"
 
