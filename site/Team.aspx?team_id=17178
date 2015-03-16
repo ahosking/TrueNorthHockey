@@ -1,0 +1,721 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html><head>
+
+        
+    <title>
+        Toronto Ice Dogs - - True North Hockey Canada
+        - - True North Hockey Canada</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<link rel="stylesheet" href="/style/tnhc.css" type="text/css" />    
+<style type="text/css">
+
+.style1 {font-family: Arial, Helvetica, sans-serif}
+.style2 {
+	color: #FFFF00;
+	font-size: 12pt;
+}
+.style3 {font-size: 12pt}
+.style4 {font-family: Arial, Helvetica, sans-serif; font-size: 12pt; }
+
+</style>
+
+<style media="print" type="text/css">
+    .NoPrint{display:none;}
+    .Print{display:block;}
+</style>
+<style type="text/css">
+    .NoDisplay{display:none;}
+    .Display{display:block;}
+</style>
+    
+<script type="text/javascript">
+    function PrintBody()
+    {
+        //alert("about to print");
+        var topDiv = document.getElementById("TopDiv");
+        var leftDiv = document.getElementById("LeftDiv");
+        var rightDiv = document.getElementById("RightDiv");
+        topDiv.className="NoPrint";
+        leftDiv.className="NoPrint";
+        rightDiv.className="NoPrint";
+        
+        window.print();
+        
+        //topDiv.className="";
+        //leftDiv.className="";
+        //rightDiv.className="";
+        
+    }
+    function HideRight()
+    {
+        var rightDiv = document.getElementById("RightDiv");
+        rightDiv.className="NoDisplay";
+    }    
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18289116-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body bgcolor="#000000" class="famegameshame">
+<p align="center">
+     <style media="print" type="text/css">
+    .NoDisplay{display:none;}
+    .Display{display:block;}
+    </style>
+<style>
+    
+body {
+	background: #000000;
+}
+body.famegameshame a {
+	color: #CCCCCC;
+	text-decoration: none;
+	}
+body.famegameshame h2 {
+	color: #FFF;
+}
+/* centering for ie */
+div.rim {
+	text-align: center;
+}
+/* centering for mozilla */
+div.rim table {
+	margin-left: auto;
+	margin-right: auto;
+}
+div.rim a:link {
+	color: #CCCCCC;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+div.rim a:visited {
+	color: #CCCCCC;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+div.rim a:hover {
+	color: #FFFFF;
+	text-decoration: underline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+div.core {
+	background-color: #000;
+	color: #FFF;
+	width: 560px;
+}
+div.core h1, div.core h2 {
+	text-align: center;
+}
+/* centering for ie */
+div.core {
+	text-align: center;
+}
+/* centering for mozilla */
+div.core table {
+	margin-left: auto;
+	margin-right: auto;
+}
+div.core table caption {
+	margin-left: auto;
+	margin-right: auto;
+}
+div.core a {
+	color: #003366;
+	text-decoration: underline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+div.core a:link {
+	color: #003333;
+	text-decoration: none;
+}
+div.core a:visited {
+	color: #003333;
+	text-decoration: none;
+}
+div.core a:hover {
+	color: #666666;
+	text-decoration: underline;
+}
+div.core p a {
+	color: #FFF;
+	text-decoration: underline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+div.core p a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+div.core p a:visited {
+	color: #FFF;
+	text-decoration: none;
+}
+div.core p a:hover {
+	color: #CCC;
+	text-decoration: underline;
+}
+div.core caption a {
+	color: #FFF;
+	text-decoration: underline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+div.core caption a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+div.core caption a:visited {
+	color: #FFF;
+	text-decoration: none;
+}
+div.core caption a:hover {
+	color: #CCC;
+	text-decoration: underline;
+}
+div.core td {
+	font-size: 70%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+div.core th {
+	font-size: 70%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+</style>
+<div class="rim">
+<div id="TopDiv">
+<style type="text/css">
+
+input {
+	background-color: #999999;
+	font-size: xx-small;
+}
+select {
+	background-color: #999999;
+	font-size: xx-small;
+}
+a:link {
+	// color: #999999;
+	text-decoration: none;
+}
+a:visited {
+	color: #999999;
+	text-decoration: none;
+}
+a:hover {
+	color: #dddddd;
+	text-decoration: underline;
+}
+
+</style>
+<body bgcolor="#000000" link="#999999" vlink="#999999">
+<div id="TopDiv">
+<table width="930" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+  <tr> 
+    <td height="64" valign="middle"> 
+      <p align="center"><img src="/Promotions/SeasonalTop/25Anniv.jpg" width="930" height="120"></p></td>
+    </tr>
+</table>
+<table width="930" height="10" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+  <tr>
+    <td><div align="center"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><img src="/pagepieces/grey1.gif" alt="grey1.gif" width="929" height="2"> 
+        <br>
+        True North Hockey Canada ~ Established in 1990<br>
+        Focused on Adult Recreational Hockey for Men and Women in Toronto &amp; Brampton
+        <br>
+        <img src="/pagepieces/grey1.gif" alt="grey1.gif" width="929" height="2"> </strong></font></div></td>
+  </tr>
+</table>
+<table width="930" border="0" cellpadding="0" cellspacing="0" bgcolor="#151515">
+  <tr valign="middle"> 
+    <td width="146"> 
+      <table width="147" cellpadding="1" cellspacing="0" bgcolor="#0A0606">
+        <tr> 
+          <td width="136" height="21" valign="top" bgcolor="#151515"> 
+            <div align="center"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+              <script LANGUAGE="JavaScript">
+
+
+
+<!-- Begin
+var months=new Array(13);
+months[1]="January";
+months[2]="February";
+months[3]="March";
+months[4]="April";
+months[5]="May";
+months[6]="June";
+months[7]="July";
+months[8]="August";
+months[9]="September";
+months[10]="October";
+months[11]="November";
+months[12]="December";
+var time=new Date();
+var lmonth=months[time.getMonth() + 1];
+var date=time.getDate();
+var year=time.getYear();
+
+// Y2K Fix by Isaac Powell
+// http://onyx.idbsu.edu/~ipowell
+
+if ((navigator.appName == "Microsoft Internet Explorer") && (year < 2000))		
+year="19" + year;
+if (navigator.appName == "Netscape")
+year=1900 + year;
+document.write("<center>" + lmonth + " ");
+document.write(date + ", " + year + "</center>");
+// End -->
+
+</SCRIPT>
+          </font></div></td>
+        </tr>
+      </table>
+    </td>
+<td width="15" valign="middle">&nbsp;</td>
+<td width="769" valign="middle"> 
+    
+
+<form method="get" action="/asp_pages/TeamPlayer.aspx" name="Search">
+  <div align="right"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+    Player: 
+    <input type="text" id="player" name="player" size="10">
+    Team: 
+    <input type="text" id="team" name="team" size="10" />
+    Division: 
+    <input type="text" id="division" name="division" size="10" />
+    Season: 
+    <select name="season">
+      <option value="201409" selected>Winter 2014-2015</option>
+      <option value="201405">Summer 2014</option>
+      <option value="201309">Winter 2013-2014</option>
+</select>
+    &nbsp; 
+    <input type="submit" value="Search" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    </font>
+  </div>
+</form>
+
+</td>
+</tr>
+</table>
+<table width="930" height="28" border="0" cellpadding="0" cellspacing="0" bgcolor="#151515">
+  <tr> 
+    <td height="28"> 
+      <div align="center"><font color="#999999" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong><img src="/pagepieces/grey1.gif" alt="grey1.gif" width="929" height="2"><br>
+        </strong><a href="/default.aspx">Home</a> | <a href="/pgs/arenas.aspx">Arenas</a> | <a href="/pgs/maillist.aspx">Administrators</a> | <a href="/pgs/about.aspx">About
+        Us</a> | <a href="/Rules/Rules140303.aspx">Rules </a>| <a href="/pgs/corrections.aspx">Corrections</a>| <a href="/pgs/grail.aspx">The Holy Grail</a><br>
+        <img src="/pagepieces/grey1.gif" alt="grey1.gif" width="929" height="2"></font></div></td>
+  </tr>
+</table>
+</div>
+
+</div>
+<table border="0" cellpadding="5" cellspacing="0" height="100%"><tr valign="top"><td align="left">
+<div id="LeftDiv">
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<body onLoad="MM_preloadImages('/nav/regwin2.gif','regwin1.gif','/nav/bram2.gif','/nav/tor2.gif','/nav/playerwaivsum2.gif','/nav/replogin2.gif','/nav/rules2.gif','/nav/goalie2.gif','/nav/arenas2.gif','/nav/equip2.gif','/nav/regwin2.gif','/nav/playerwaivwin2.gif','/nav/goalwaiv2.gif','/nav/teamrepagree2.gif','/nav/logosubs2.gif','/nav/regsum1.gif','/nav/regsum2.gif')">
+<table width="176" height="100%" border="2" align="left" valign="top" cellpadding="2" cellspacing="0" bordercolor="#333333">
+  <tr>
+    <td width="166" height="0" align="center" valign="top" bgcolor="#000000"><div align="center">
+      <table width="165" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top" bgcolor="#000000"><p align="center">&nbsp;</p></td>
+        </tr>
+        <tr>
+          <td align="center" valign="top" bgcolor="#000000"><p><img src="/pics/TNHClogo_med_blk.png" width="155" height="100"></p></td>
+        </tr>
+                 <tr>
+          <td valign="top" bgcolor="#000000"><div align="center">
+            <p><font color="#FFFFFF" size="2" face="Geneva, Arial, Helvetica, sans-serif"2"><strong><br>
+Winter 2014-2015</strong></font></p>
+          </div></td>       
+        </tr>
+
+      
+        
+        <tr>
+          <td valign="top"><a href="/asp_pages/Stats.aspx?season_id=201409&stats_id=2" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('brampton','','/nav/bram2.gif',1)"><img src="/nav/bram1.gif" alt="Brampton Divisions" name="brampton" width="165" height="24" border="0"></a></td>
+        </tr>
+
+        <tr>
+          <td valign="top"><a href="/asp_pages/Stats.aspx?season_id=201409&stats_id=1" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('toronto','','/nav/tor2.gif',1)"><img src="/nav/tor1.gif" alt="Toronto Divisions" name="toronto" width="165" height="24" border="0"></a></td>
+        </tr>
+      	
+        <tr>
+          <td valign="top"><a href="https://www.truenorthhockey.com/office/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('teamreplogin','','/nav/replogin2.gif',1)"><img src="/nav/replogin1.gif" alt="Team Rep Login" name="teamreplogin" width="165" height="24" border="0"></a></td>
+        </tr>
+        
+                
+         <tr>
+          <td valign="top"><a href="https://www.truenorthhockey.com/pgs/registration/winter14_15/GoalieReg.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('goalwaiv','','/nav/goalwaiv2.gif',1)"><img src="/nav/goalwaiv1.gif" alt="Winter 2014-15 Goalie Registration" name="goalwaiv" width="165" height="24" border="0"></a></td>
+        </tr>
+		
+        <tr>
+          <td valign="top"><a href="/Promotions/TeamLogos/LogosWanted.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('logosubmissions','','/nav/logosubs2.gif',1)"><img src="/nav/logosubs1.gif" alt="Submit Your Logo" name="logosubmissions" width="165" height="24" border="0"></a></td>
+        </tr>
+		
+        
+       
+        <tr>
+          <td valign="top"><a href="/Rules/Rules140303.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('rules','','/nav/rules2.gif',1)"><img src="/nav/rules1.gif" alt="TNHC Rules" name="rules" width="165" height="24" border="0"></a></td>
+        </tr>		
+		
+        <tr>
+          <td valign="top"><a href="/pgs/goaliesub.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('goaliesub','','/nav/goalie2.gif',1)"><img src="/nav/goalie1.gif" alt="Need a Goalie?" name="goaliesub" width="165" height="24" border="0"></a></td>
+        </tr>		
+	
+<tr>
+          <td valign="top"><a href="/pgs/arenas.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('arenas','','/nav/arenas2.gif',1)"><img src="/nav/arenas1.gif" alt="Arena Locations" name="arenas" width="165" height="24" border="0"></a></td>
+        </tr>	    	      
+                
+        <tr>
+          <td valign="top"><a href="/pgs/fittingequip.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('EquipmentGuide','','/nav/equip2.gif',1)"><img src="/nav/equip1.gif" alt="Equipment Guide" name="EquipmentGuide" width="165" height="24" border="0"></a></td>
+        </tr>	
+       
+
+<tr>
+          <td valign="top" bgcolor="#000000"><div align="center">
+            <p><font color="#FFFFFF" size="2" face="Geneva, Arial, Helvetica, sans-serif"2"><strong><br>
+Summer 2015</strong></font></p>
+          </div></td>       
+        </tr>
+
+      
+        
+         <tr>
+          <td valign="top"><a href="https://www.truenorthhockey.com/pgs/registration/Summer15/LeagueInfo.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('regsum','','/nav/regsum2.gif',1)"><img src="/nav/regsum1.gif" alt="Summer 2015 Player Registration" name="regsum" width="165" height="24" border="0"></a></td>
+        </tr>
+
+           <tr>
+          <td valign="top"><a href="https://www.truenorthhockey.com/pgs/registration/Summer15/BeginnerInfo.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('beginfo2','','/nav/beginfo2.gif',1)"><img src="/nav/beginfo1.gif" alt="Summer 2015 Beginner Info" name="beginfo2" width="165" height="24" border="0"></a></td>
+        </tr> 
+      
+         <tr>
+          <td valign="top"><a href="https://www.truenorthhockey.com/pgs/registration/Summer15/GoalieReg.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('goalwaiv2','','/nav/goalwaiv2.gif',1)"><img src="/nav/goalwaiv1.gif" alt="Summer 2015 Goalie Registration" name="goalwaiv2" width="165" height="24" border="0"></a></td>
+        </tr>
+		
+       
+
+		
+    
+          <td align="center" valign="top">&nbsp;</td>
+          </tr>
+		<tr>
+		  <td align="center" valign="top"></td>
+		  </tr>
+		<tr>
+		  <td align="center" valign="top">&nbsp;</td>
+		  </tr>
+		<tr>
+		  <td align="center" valign="top"><a href="/Promotions/SkateBiz/SkateBiz01.aspx"><img src="/Promotions/SkateBiz/SkateBizBan02.gif" alt="SkateBiz" width="160" height="155" border="0"></a></td>
+		  </tr>
+      </table>
+</div>
+      <p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="/pics/TNHClogo_med_blk.png" alt="TNHC" width="155" height="100"></p>
+<p>&nbsp;</p></td>
+  </tr>
+</table>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+
+</div>
+</td><td>
+<div class="core">
+
+  </p>
+    <form method="post" action="Team.aspx?team_id=17178" id="form2">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5OTQ5NjU4NTMPZBYCZg9kFgICCQ9kFgICAQ9kFhxmDw8WAh4EVGV4dAUOV2ludGVyIDIwMTQvMTVkZAIBDw8WBB8ABQdUb3JvbnRvHgtOYXZpZ2F0ZVVybAUmU3RhdHMuYXNweD9zdGF0c19pZD0xJnNlYXNvbl9pZD0yMDE0MDlkZAICDw8WBB8ABQZTdW5kYXkfAQUZTGVhZ3VlLmFzcHg/bGVhZ3VlX2lkPTMzNGRkAgMPDxYEHwAFCU1haG92bGljaB8BBR5EaXZpc2lvbi5hc3B4P2RpdmlzaW9uX2lkPTI0MDVkZAIEDw8WAh8ABRBUb3JvbnRvIEljZSBEb2dzZGQCBw8PFgIfAQUtRGl2aXNpb24uYXNweD9kaXZpc2lvbl9pZD0yNDA1I1NjaGVkdWxlU2NvcmVzZGQCCA8PFgIfAQUrRGl2aXNpb24uYXNweD9kaXZpc2lvbl9pZD0yNDA1I1N0YXRzTGVhZGVyc2RkAgkPDxYCHwEFKERpdmlzaW9uLmFzcHg/ZGl2aXNpb25faWQ9MjQwNSNTdGFuZGluZ3NkZAIKDzwrABECAA8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAIWZAEQFgAWABYAFgJmD2QWLgIBD2QWDmYPDxYCHwAFAjU1ZGQCAQ8PFgIfAAURTmVsc29uIExhZnJlbmllcmVkZAICDw8WAh8ABQIxN2RkAgMPDxYCHwAFAjI1ZGQCBA8PFgIfAAUBOWRkAgUPDxYCHwAFAjM0ZGQCBg8PFgIfAAUCMTBkZAICD2QWDmYPDxYCHwAFAjE3ZGQCAQ8PFgIfAAUNQW5nZWxvIENhcG9uZWRkAgIPDxYCHwAFAjIxZGQCAw8PFgIfAAUCMTRkZAIEDw8WAh8ABQIxMWRkAgUPDxYCHwAFAjI1ZGQCBg8PFgIfAAUBNGRkAgMPZBYOZg8PFgIfAAUCMjZkZAIBDw8WAh8ABQpFeWFsIENvaGVuZGQCAg8PFgIfAAUCMjBkZAIDDw8WAh8ABQE3ZGQCBA8PFgIfAAUBNWRkAgUPDxYCHwAFAjEyZGQCBg8PFgIfAAUBMmRkAgQPZBYOZg8PFgIfAAUCNjFkZAIBDw8WAh8ABQ1MYXJyeSBDYW1lcm9uZGQCAg8PFgIfAAUCMjBkZAIDDw8WAh8ABQE0ZGQCBA8PFgIfAAUBN2RkAgUPDxYCHwAFAjExZGQCBg8PFgIfAAUCMzZkZAIFD2QWDmYPDxYCHwAFAjE5ZGQCAQ8PFgIfAAUPTWFyayBNaWx0ZW5idXJnZGQCAg8PFgIfAAUCMTZkZAIDDw8WAh8ABQEyZGQCBA8PFgIfAAUBOGRkAgUPDxYCHwAFAjEwZGQCBg8PFgIfAAUBMmRkAgYPZBYOZg8PFgIfAAUCNjhkZAIBDw8WAh8ABQ9FcmljIFBoaWxsaXBzb25kZAICDw8WAh8ABQIxNmRkAgMPDxYCHwAFATZkZAIEDw8WAh8ABQEyZGQCBQ8PFgIfAAUBOGRkAgYPDxYCHwAFATZkZAIHD2QWDmYPDxYCHwAFAjcwZGQCAQ8PFgIfAAUMRGFuIFRvcnJhbmNlZGQCAg8PFgIfAAUBN2RkAgMPDxYCHwAFATRkZAIEDw8WAh8ABQE0ZGQCBQ8PFgIfAAUBOGRkAgYPDxYCHwAFATBkZAIID2QWDmYPDxYCHwAFAjExZGQCAQ8PFgIfAAUNRGVyZWsgSGFycGVsbGRkAgIPDxYCHwAFAjE0ZGQCAw8PFgIfAAUBMGRkAgQPDxYCHwAFATVkZAIFDw8WAh8ABQE1ZGQCBg8PFgIfAAUCMTJkZAIJD2QWDmYPDxYCHwAFAjE1ZGQCAQ8PFgIfAAUKRGFuIFNvb2xleWRkAgIPDxYCHwAFAjE5ZGQCAw8PFgIfAAUBMGRkAgQPDxYCHwAFATVkZAIFDw8WAh8ABQE1ZGQCBg8PFgIfAAUCMjJkZAIKD2QWDmYPDxYCHwAFATRkZAIBDw8WAh8ABQxBaXRvciBTYWJhdGVkZAICDw8WAh8ABQIxNmRkAgMPDxYCHwAFATJkZAIEDw8WAh8ABQEyZGQCBQ8PFgIfAAUBNGRkAgYPDxYCHwAFAjMwZGQCCw9kFg5mDw8WAh8ABQE5ZGQCAQ8PFgIfAAUNUmljaGFyZCBMb3BlemRkAgIPDxYCHwAFAjE2ZGQCAw8PFgIfAAUBMWRkAgQPDxYCHwAFATNkZAIFDw8WAh8ABQE0ZGQCBg8PFgIfAAUBMmRkAgwPZBYOZg8PFgIfAAUCMjJkZAIBDw8WAh8ABQtEYXZpZCBCYXJ0aGRkAgIPDxYCHwAFAjE1ZGQCAw8PFgIfAAUBMGRkAgQPDxYCHwAFATRkZAIFDw8WAh8ABQE0ZGQCBg8PFgIfAAUBMmRkAg0PZBYOZg8PFgIfAAUCMTNkZAIBDw8WAh8ABQxCcmVuZGFuIEhvd2VkZAICDw8WAh8ABQEyZGQCAw8PFgIfAAUBM2RkAgQPDxYCHwAFATBkZAIFDw8WAh8ABQEzZGQCBg8PFgIfAAUBNGRkAg4PZBYOZg8PFgIfAAUCMTZkZAIBDw8WAh8ABQ9DYXJsb3MgQXN1bmNpb25kZAICDw8WAh8ABQE5ZGQCAw8PFgIfAAUBMGRkAgQPDxYCHwAFATNkZAIFDw8WAh8ABQEzZGQCBg8PFgIfAAUBMGRkAg8PZBYOZg8PFgIfAAUCNzhkZAIBDw8WAh8ABQtMZW9uYXJkIExpbWRkAgIPDxYCHwAFAjEyZGQCAw8PFgIfAAUBMGRkAgQPDxYCHwAFATNkZAIFDw8WAh8ABQEzZGQCBg8PFgIfAAUBMGRkAhAPZBYOZg8PFgIfAAUBR2RkAgEPDxYCHwAFEUFsZXhhbmRlciBIb3NraW5nZGQCAg8PFgIfAAUCMjBkZAIDDw8WAh8ABQEwZGQCBA8PFgIfAAUBMmRkAgUPDxYCHwAFATJkZAIGDw8WAh8ABQEwZGQCEQ9kFg5mDw8WAh8ABQMxM2JkZAIBDw8WAh8ABQ5HZW9yZ2UgTWNLZW93bmRkAgIPDxYCHwAFATJkZAIDDw8WAh8ABQEwZGQCBA8PFgIfAAUBMWRkAgUPDxYCHwAFATFkZAIGDw8WAh8ABQEwZGQCEg9kFg5mDw8WAh8ABQIxMmRkAgEPDxYCHwAFCUhhbSBBbnNhaGRkAgIPDxYCHwAFATdkZAIDDw8WAh8ABQEwZGQCBA8PFgIfAAUBMWRkAgUPDxYCHwAFATFkZAIGDw8WAh8ABQEwZGQCEw9kFg5mDw8WAh8ABQVUQkQtMmRkAgEPDxYCHwAFEU1pY2hhZWwgV2VpbnN0ZWluZGQCAg8PFgIfAAUBMmRkAgMPDxYCHwAFATBkZAIEDw8WAh8ABQExZGQCBQ8PFgIfAAUBMWRkAgYPDxYCHwAFATBkZAIUD2QWDmYPDxYCHwAFAjE4ZGQCAQ8PFgIfAAUPSm9uYXRoYW5lIFJpY2NpZGQCAg8PFgIfAAUBMmRkAgMPDxYCHwAFATBkZAIEDw8WAh8ABQEwZGQCBQ8PFgIfAAUBMGRkAgYPDxYCHwAFATBkZAIVD2QWDmYPDxYCHwAFAjMzZGQCAQ8PFgIfAAUPQ2xpZmZvcmQgRGVXb2xmZGQCAg8PFgIfAAUCMTZkZAIDDw8WAh8ABQEwZGQCBA8PFgIfAAUBMGRkAgUPDxYCHwAFATBkZAIGDw8WAh8ABQEyZGQCFg9kFg5mDw8WAh8ABQE2ZGQCAQ8PFgIfAAUNSmFzb24gUGlsbGluZ2RkAgIPDxYCHwAFATVkZAIDDw8WAh8ABQEwZGQCBA8PFgIfAAUBMGRkAgUPDxYCHwAFATBkZAIGDw8WAh8ABQE0ZGQCFw8PFgIeB1Zpc2libGVoZGQCCw88KwARAgAPFgQfAmcfAwIBZAEQFgAWABYAFgJmD2QWBAIBD2QWDGYPDxYCHwAFAUdkZAIBDw8WAh8ABRFBbGV4YW5kZXIgSG9za2luZ2RkAgIPDxYCHwAFAjIwZGQCAw8PFgIfAAUCOTJkZAIEDw8WAh8ABQU0LjYwMGRkAgUPDxYCHwAFATBkZAICDw8WAh8EaGRkAgwPD2QPEBYBZhYBFgIeDlBhcmFtZXRlclZhbHVlBQUxNzE3OBYBAgRkZAINDw9kDxAWAWYWARYCHwUFBTE3MTc4FgECBGRkAg4PD2QPEBYBZhYBFgIfBQUFMTcxNzgWAQIEZGQCDw88KwARAgAPFgQfAmcfAwIVZAEQFgAWABYAFgJmD2QWLAIBD2QWDmYPDxYCHwAFBlNlcCAxNGRkAgEPDxYCHwAFCDA5OjAwIFBNZGQCAg8PFgIfAAUGUmlueCAxZGQCAw9kFgJmDw8WBB8ABRBUb3JvbnRvIEljZSBEb2dzHwEFF1RlYW0uYXNweD90ZWFtX2lkPTE3MTc4ZGQCBA9kFgJmDw8WBB8ABQE0HwEFJXRuaGNHYW1lU2hlZXRQcmludC5hc3B4P2dhbWVpZD0xNjMzMzRkZAIFD2QWAmYPDxYEHwAFBVNob2NrHwEFF1RlYW0uYXNweD90ZWFtX2lkPTE2ODkzZGQCBg9kFgJmDw8WBB8ABQE2HwEFJXRuaGNHYW1lU2hlZXRQcmludC5hc3B4P2dhbWVpZD0xNjMzMzRkZAICD2QWDmYPDxYCHwAFBlNlcCAyMWRkAgEPDxYCHwAFCDA1OjE1IFBNZGQCAg8PFgIfAAUGUmlueCAyZGQCAw9kFgJmDw8WBB8ABQtMdWNreSBQdWNrcx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE0OGRkAgQPZBYCZg8PFgQfAAUBNh8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTYzNTE2ZGQCBQ9kFgJmDw8WBB8ABRBUb3JvbnRvIEljZSBEb2dzHwEFF1RlYW0uYXNweD90ZWFtX2lkPTE3MTc4ZGQCBg9kFgJmDw8WBB8ABQE2HwEFJXRuaGNHYW1lU2hlZXRQcmludC5hc3B4P2dhbWVpZD0xNjM1MTZkZAIDD2QWDmYPDxYCHwAFBlNlcCAyOGRkAgEPDxYCHwAFCDEwOjAwIFBNZGQCAg8PFgIfAAUGUmlueCAzZGQCAw9kFgJmDw8WBB8ABRBUb3JvbnRvIEljZSBEb2dzHwEFF1RlYW0uYXNweD90ZWFtX2lkPTE3MTc4ZGQCBA9kFgJmDw8WBB8ABQE1HwEFJXRuaGNHYW1lU2hlZXRQcmludC5hc3B4P2dhbWVpZD0xNjM3NDZkZAIFD2QWAmYPDxYEHwAFCVRocmFzaGVycx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzExMWRkAgYPZBYCZg8PFgQfAAUBNh8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTYzNzQ2ZGQCBA9kFg5mDw8WAh8ABQZPY3QgMDVkZAIBDw8WAh8ABQgwMjo0NSBQTWRkAgIPDxYCHwAFBlJpbnggMmRkAgMPZBYCZg8PFgQfAAUFWnVsdXMfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcxOTdkZAIED2QWAmYPDxYEHwAFATYfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2MzkwMmRkAgUPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgYPZBYCZg8PFgQfAAUBMR8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTYzOTAyZGQCBQ9kFg5mDw8WAh8ABQZPY3QgMTlkZAIBDw8WAh8ABQgwNzozMCBQTWRkAgIPDxYCHwAFBlJpbnggM2RkAgMPZBYCZg8PFgQfAAUFQmVhcnMfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcxMTRkZAIED2QWAmYPDxYEHwAFATcfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NDIyNGRkAgUPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgYPZBYCZg8PFgQfAAUBNh8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY0MjI0ZGQCBg9kFg5mDw8WAh8ABQZPY3QgMjZkZAIBDw8WAh8ABQgxMDoxNSBQTWRkAgIPDxYCHwAFBlJpbnggMmRkAgMPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgQPZBYCZg8PFgQfAAUBMx8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY0NDQ0ZGQCBQ9kFgJmDw8WBB8ABRFIYXJkIDQgV2hhbGV0YWlscx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzIwN2RkAgYPZBYCZg8PFgQfAAUBMR8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY0NDQ0ZGQCBw9kFg5mDw8WAh8ABQZOb3YgMDJkZAIBDw8WAh8ABQgwNTowMCBQTWRkAgIPDxYCHwAFBlJpbnggM2RkAgMPZBYCZg8PFgQfAAUGUmFnZXJzHwEFF1RlYW0uYXNweD90ZWFtX2lkPTE3MTY4ZGQCBA9kFgJmDw8WBB8ABQEyHwEFJXRuaGNHYW1lU2hlZXRQcmludC5hc3B4P2dhbWVpZD0xNjQ2MTNkZAIFD2QWAmYPDxYEHwAFEFRvcm9udG8gSWNlIERvZ3MfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcxNzhkZAIGD2QWAmYPDxYEHwAFATMfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NDYxM2RkAggPZBYOZg8PFgIfAAUGTm92IDA5ZGQCAQ8PFgIfAAUIMDc6MDAgUE1kZAICDw8WAh8ABQxNYXN0ZXJDYXJkIDNkZAIDD2QWAmYPDxYEHwAFEFNjcmVhbWluZyBFYWdsZXMfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcyMTFkZAIED2QWAmYPDxYEHwAFATYfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NDgyMWRkAgUPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgYPZBYCZg8PFgQfAAUBNB8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY0ODIxZGQCCQ9kFg5mDw8WAh8ABQZOb3YgMTZkZAIBDw8WAh8ABQgwMjo0NSBQTWRkAgIPDxYCHwAFBlJpbnggMmRkAgMPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgQPZBYCZg8PFgQfAAUBMx8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY1MDE2ZGQCBQ9kFgJmDw8WBB8ABQxCZWVyIFJhaWRlcnMfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcxNDVkZAIGD2QWAmYPDxYEHwAFATYfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NTAxNmRkAgoPZBYOZg8PFgIfAAUGTm92IDIzZGQCAQ8PFgIfAAUIMDc6MzAgUE1kZAICDw8WAh8ABQZSaW54IDNkZAIDD2QWAmYPDxYEHwAFEFRvcm9udG8gSWNlIERvZ3MfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcxNzhkZAIED2QWAmYPDxYEHwAFATUfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NTE5OWRkAgUPZBYCZg8PFgQfAAUENjcncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNjk5MWRkAgYPZBYCZg8PFgQfAAUBNB8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY1MTk5ZGQCCw9kFg5mDw8WAh8ABQZOb3YgMzBkZAIBDw8WAh8ABQgwODozMCBQTWRkAgIPDxYCHwAFBlJpbnggMmRkAgMPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgQPZBYCZg8PFgQfAAUBMh8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY1NDAzZGQCBQ9kFgJmDw8WBB8ABRFIYXJkIDQgV2hhbGV0YWlscx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzIwN2RkAgYPZBYCZg8PFgQfAAUBMh8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY1NDAzZGQCDA9kFg5mDw8WAh8ABQZEZWMgMDdkZAIBDw8WAh8ABQgxMDoxNSBQTWRkAgIPDxYCHwAFBlJpbnggMWRkAgMPZBYCZg8PFgQfAAUGUmFnZXJzHwEFF1RlYW0uYXNweD90ZWFtX2lkPTE3MTY4ZGQCBA9kFgJmDw8WBB8ABQE1HwEFJXRuaGNHYW1lU2hlZXRQcmludC5hc3B4P2dhbWVpZD0xNjU2MTlkZAIFD2QWAmYPDxYEHwAFEFRvcm9udG8gSWNlIERvZ3MfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcxNzhkZAIGD2QWAmYPDxYEHwAFATEfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NTYxOWRkAg0PZBYOZg8PFgIfAAUGRGVjIDE0ZGQCAQ8PFgIfAAUIMDE6MTUgUE1kZAICDw8WAh8ABQZSaW54IDNkZAIDD2QWAmYPDxYEHwAFEFNjcmVhbWluZyBFYWdsZXMfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcyMTFkZAIED2QWAmYPDxYEHwAFATMfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NTc2NmRkAgUPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgYPZBYCZg8PFgQfAAUBMx8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY1NzY2ZGQCDg9kFg5mDw8WAh8ABQZEZWMgMjFkZAIBDw8WAh8ABQgxMDo0NSBQTWRkAgIPDxYCHwAFDE1hc3RlckNhcmQgMmRkAgMPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgQPZBYCZg8PFgQfAAUBMh8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY2MDE1ZGQCBQ9kFgJmDw8WBB8ABQxCZWVyIFJhaWRlcnMfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcxNDVkZAIGD2QWAmYPDxYEHwAFATUfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NjAxNWRkAg8PZBYOZg8PFgIfAAUGRGVjIDI4ZGQCAQ8PFgIfAAUIMDM6NDUgUE1kZAICDw8WAh8ABQZSaW54IDNkZAIDD2QWAmYPDxYEHwAFEFRvcm9udG8gSWNlIERvZ3MfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcxNzhkZAIED2QWAmYPDxYEHwAFATQfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NjA4MWRkAgUPZBYCZg8PFgQfAAUENjcncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNjk5MWRkAgYPZBYCZg8PFgQfAAUBMx8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY2MDgxZGQCEA9kFg5mDw8WAh8ABQZKYW4gMDRkZAIBDw8WAh8ABQgwODozMCBQTWRkAgIPDxYCHwAFBlJpbnggMmRkAgMPZBYCZg8PFgQfAAURSGFyZCA0IFdoYWxldGFpbHMfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcyMDdkZAIED2QWAmYPDxYEHwAFATUfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NjE1N2RkAgUPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgYPZBYCZg8PFgQfAAUBMh8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY2MTU3ZGQCEQ9kFg5mDw8WAh8ABQZKYW4gMTFkZAIBDw8WAh8ABQgwMjowMCBQTWRkAgIPDxYCHwAFDE1hc3RlckNhcmQgM2RkAgMPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgQPZBYCZg8PFgQfAAUBOB8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY2MzIwZGQCBQ9kFgJmDw8WBB8ABQZSYWdlcnMfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcxNjhkZAIGD2QWAmYPDxYEHwAFATQfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NjMyMGRkAhIPZBYOZg8PFgIfAAUGSmFuIDE4ZGQCAQ8PFgIfAAUIMDc6MzAgUE1kZAICDw8WAh8ABQZSaW54IDNkZAIDD2QWAmYPDxYEHwAFEFRvcm9udG8gSWNlIERvZ3MfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcxNzhkZAIED2QWAmYPDxYEHwAFATAfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NjUyOWRkAgUPZBYCZg8PFgQfAAUQU2NyZWFtaW5nIEVhZ2xlcx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzIxMWRkAgYPZBYCZg8PFgQfAAUBNR8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY2NTI5ZGQCEw9kFg5mDw8WAh8ABQZKYW4gMjVkZAIBDw8WAh8ABQgwNDo0NSBQTWRkAgIPDxYCHwAFBlJpbnggMmRkAgMPZBYCZg8PFgQfAAUMQmVlciBSYWlkZXJzHwEFF1RlYW0uYXNweD90ZWFtX2lkPTE3MTQ1ZGQCBA9kFgJmDw8WBB8ABQE0HwEFJXRuaGNHYW1lU2hlZXRQcmludC5hc3B4P2dhbWVpZD0xNjY3MDVkZAIFD2QWAmYPDxYEHwAFEFRvcm9udG8gSWNlIERvZ3MfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTcxNzhkZAIGD2QWAmYPDxYEHwAFATEfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NjcwNWRkAhQPZBYOZg8PFgIfAAUGRmViIDAxZGQCAQ8PFgIfAAUIMTA6MTUgUE1kZAICDw8WAh8ABQZSaW54IDFkZAIDD2QWAmYPDxYEHwAFBDY3J3MfAQUXVGVhbS5hc3B4P3RlYW1faWQ9MTY5OTFkZAIED2QWAmYPDxYEHwAFATcfAQUldG5oY0dhbWVTaGVldFByaW50LmFzcHg/Z2FtZWlkPTE2NjkzOGRkAgUPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgYPZBYCZg8PFgQfAAUBMh8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY2OTM4ZGQCFQ9kFg5mDw8WAh8ABQZGZWIgMDhkZAIBDw8WAh8ABQgxMjowMCBQTWRkAgIPDxYCHwAFBlJpbnggM2RkAgMPZBYCZg8PFgQfAAUQVG9yb250byBJY2UgRG9ncx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzE3OGRkAgQPZBYCZg8PFgQfAAUBMx8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY3MDgxZGQCBQ9kFgJmDw8WBB8ABRFIYXJkIDQgV2hhbGV0YWlscx8BBRdUZWFtLmFzcHg/dGVhbV9pZD0xNzIwN2RkAgYPZBYCZg8PFgQfAAUBNB8BBSV0bmhjR2FtZVNoZWV0UHJpbnQuYXNweD9nYW1laWQ9MTY3MDgxZGQCFg8PFgIfBGhkZBgDBS9jdGwwMCRDb250ZW50UGxhY2VIb2xkZXIyJEdyaWRWaWV3U2NoZWR1bGVTY29yZQ88KwAMAQgCAWQFLGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjIkR3JpZFZpZXdHb2FsdGVuZGVyDzwrAAwBCAIBZAUoY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMiRHcmlkVmlld1BsYXllcg88KwAMAQgCAWQ=" />
+
+
+        
+    <div class="core">
+        <p>
+            <span id="ContentPlaceHolder2_LabelSeason">Winter 2014/15</span>
+            <a id="ContentPlaceHolder2_HyperLinkStats" href="Stats.aspx?stats_id=1&amp;season_id=201409">Toronto</a>
+            <a id="ContentPlaceHolder2_HyperLinkLeague" href="League.aspx?league_id=334">Sunday</a>
+            <a id="ContentPlaceHolder2_HyperLinkDivision" href="Division.aspx?division_id=2405">Mahovlich</a>
+        </p>
+        <h1>
+            <span id="ContentPlaceHolder2_LabelTeamName">Toronto Ice Dogs</span>
+        </h1>
+    <p align="center"><img src="/Promotions/silveranniv/minilogo.jpg"  border="0"></a></p>
+
+<p align="center"><a href="/Promotions/PlayoffEligibility/PlayoffMemo-Winter2014-15.pdf" target="_blank"><img src="/Promotions/PlayoffEligibility/playoffbanner1.gif" alt="playoffbanner1.gif" width="500" height="54" border="0"></a></p>
+
+
+<p align="center"><img src="/Promotions/attention/securevaluables2.png"  border="0"></a></p><p align="center"><a href="/pgs/arenas.aspx#mccentre"><img src="/Promotions/MCCentre/mcdirections.gif" width="510" height="86" border="0"></a></p>
+<img align="center" src=/TeamLogos/1TNHC.png>
+        <br />
+        
+        <p class="navbar">
+            <a id="ContentPlaceHolder2_HyperLinkDivisionScheduleScore" href="Division.aspx?division_id=2405#ScheduleScores">Schedule + Scores</a>
+            |
+            <a id="ContentPlaceHolder2_HyperLinkDivisionStatsLeaders" href="Division.aspx?division_id=2405#StatsLeaders">Stats Leaders</a>
+            |
+            <a id="ContentPlaceHolder2_HyperLinkDivisionStandings" href="Division.aspx?division_id=2405#Standings">Standings</a>
+        </p>
+        <h2 class="statstitle">
+          Players</h2>
+        <h2 class="statstitle"> <span class="footer">
+        <input type="button" value="Print Official Roster" onclick="window.open('tnhcRoster.aspx?team_id=17178','_blank');" />
+        </span> </h2>
+        <div>
+	<table class="players" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder2_GridViewPlayer" width="100%">
+		<tr class="rowheader">
+			<th class="no" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewPlayer&#39;,&#39;Sort$player_jersey&#39;)">No.</a></th><th class="player" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewPlayer&#39;,&#39;Sort$player_name&#39;)">Name</a></th><th class="g" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewPlayer&#39;,&#39;Sort$GP&#39;)">GP</a></th><th class="g" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewPlayer&#39;,&#39;Sort$G&#39;)">G</a></th><th class="a" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewPlayer&#39;,&#39;Sort$A&#39;)">A</a></th><th class="pts" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewPlayer&#39;,&#39;Sort$Pts&#39;)">Pts</a></th><th class="pim" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewPlayer&#39;,&#39;Sort$PIM&#39;)">PIM</a></th>
+		</tr><tr class="rowodd">
+			<td class="no">55</td><td class="player">Nelson Lafreniere</td><td class="g">17</td><td class="g">25</td><td class="a">9</td><td class="pts">34</td><td class="pim">10</td>
+		</tr><tr class="roweven">
+			<td class="no">17</td><td class="player">Angelo Capone</td><td class="g">21</td><td class="g">14</td><td class="a">11</td><td class="pts">25</td><td class="pim">4</td>
+		</tr><tr class="rowodd">
+			<td class="no">26</td><td class="player">Eyal Cohen</td><td class="g">20</td><td class="g">7</td><td class="a">5</td><td class="pts">12</td><td class="pim">2</td>
+		</tr><tr class="roweven">
+			<td class="no">61</td><td class="player">Larry Cameron</td><td class="g">20</td><td class="g">4</td><td class="a">7</td><td class="pts">11</td><td class="pim">36</td>
+		</tr><tr class="rowodd">
+			<td class="no">19</td><td class="player">Mark Miltenburg</td><td class="g">16</td><td class="g">2</td><td class="a">8</td><td class="pts">10</td><td class="pim">2</td>
+		</tr><tr class="roweven">
+			<td class="no">68</td><td class="player">Eric Phillipson</td><td class="g">16</td><td class="g">6</td><td class="a">2</td><td class="pts">8</td><td class="pim">6</td>
+		</tr><tr class="rowodd">
+			<td class="no">70</td><td class="player">Dan Torrance</td><td class="g">7</td><td class="g">4</td><td class="a">4</td><td class="pts">8</td><td class="pim">0</td>
+		</tr><tr class="roweven">
+			<td class="no">11</td><td class="player">Derek Harpell</td><td class="g">14</td><td class="g">0</td><td class="a">5</td><td class="pts">5</td><td class="pim">12</td>
+		</tr><tr class="rowodd">
+			<td class="no">15</td><td class="player">Dan Sooley</td><td class="g">19</td><td class="g">0</td><td class="a">5</td><td class="pts">5</td><td class="pim">22</td>
+		</tr><tr class="roweven">
+			<td class="no">4</td><td class="player">Aitor Sabate</td><td class="g">16</td><td class="g">2</td><td class="a">2</td><td class="pts">4</td><td class="pim">30</td>
+		</tr><tr class="rowodd">
+			<td class="no">9</td><td class="player">Richard Lopez</td><td class="g">16</td><td class="g">1</td><td class="a">3</td><td class="pts">4</td><td class="pim">2</td>
+		</tr><tr class="roweven">
+			<td class="no">22</td><td class="player">David Barth</td><td class="g">15</td><td class="g">0</td><td class="a">4</td><td class="pts">4</td><td class="pim">2</td>
+		</tr><tr class="rowodd">
+			<td class="no">13</td><td class="player">Brendan Howe</td><td class="g">2</td><td class="g">3</td><td class="a">0</td><td class="pts">3</td><td class="pim">4</td>
+		</tr><tr class="roweven">
+			<td class="no">16</td><td class="player">Carlos Asuncion</td><td class="g">9</td><td class="g">0</td><td class="a">3</td><td class="pts">3</td><td class="pim">0</td>
+		</tr><tr class="rowodd">
+			<td class="no">78</td><td class="player">Leonard Lim</td><td class="g">12</td><td class="g">0</td><td class="a">3</td><td class="pts">3</td><td class="pim">0</td>
+		</tr><tr class="roweven">
+			<td class="no">G</td><td class="player">Alexander Hosking</td><td class="g">20</td><td class="g">0</td><td class="a">2</td><td class="pts">2</td><td class="pim">0</td>
+		</tr><tr class="rowodd">
+			<td class="no">13b</td><td class="player">George McKeown</td><td class="g">2</td><td class="g">0</td><td class="a">1</td><td class="pts">1</td><td class="pim">0</td>
+		</tr><tr class="roweven">
+			<td class="no">12</td><td class="player">Ham Ansah</td><td class="g">7</td><td class="g">0</td><td class="a">1</td><td class="pts">1</td><td class="pim">0</td>
+		</tr><tr class="rowodd">
+			<td class="no">TBD-2</td><td class="player">Michael Weinstein</td><td class="g">2</td><td class="g">0</td><td class="a">1</td><td class="pts">1</td><td class="pim">0</td>
+		</tr><tr class="roweven">
+			<td class="no">18</td><td class="player">Jonathane Ricci</td><td class="g">2</td><td class="g">0</td><td class="a">0</td><td class="pts">0</td><td class="pim">0</td>
+		</tr><tr class="rowodd">
+			<td class="no">33</td><td class="player">Clifford DeWolf</td><td class="g">16</td><td class="g">0</td><td class="a">0</td><td class="pts">0</td><td class="pim">2</td>
+		</tr><tr class="roweven">
+			<td class="no">6</td><td class="player">Jason Pilling</td><td class="g">5</td><td class="g">0</td><td class="a">0</td><td class="pts">0</td><td class="pim">4</td>
+		</tr>
+	</table>
+</div>
+        <h2 class="statstitle">
+            Goaltenders</h2>
+        <div>
+	<table class="players" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder2_GridViewGoaltender" width="100%">
+		<tr class="rowheader">
+			<th class="no" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewGoaltender&#39;,&#39;Sort$player_jersey&#39;)">No.</a></th><th class="player" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewGoaltender&#39;,&#39;Sort$player_name&#39;)">Name</a></th><th class="gp" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewGoaltender&#39;,&#39;Sort$GP&#39;)">GP</a></th><th class="ga" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewGoaltender&#39;,&#39;Sort$GA&#39;)">GA</a></th><th class="gaa" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewGoaltender&#39;,&#39;Sort$GAA&#39;)">GAA</a></th><th class="sho" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewGoaltender&#39;,&#39;Sort$ShO&#39;)">ShO</a></th>
+		</tr><tr class="rowodd">
+			<td class="no">G</td><td class="player">Alexander Hosking</td><td class="gp">20</td><td class="ga">92</td><td class="gaa">4.600</td><td class="sho">0</td>
+		</tr>
+	</table>
+</div>
+        <h2 class="statstitle">
+            
+            
+            
+            Schedule + Scores</h2>
+        <h2 class="statstitle"><span class="footer">
+        <input type="button" value="Print Schedule" onclick="PrintBody()" />
+        </span></h2>
+            <p align="center">
+<font size="2" color="#ffffff" face="Geneva, Arial, Helvetica, sans-serif">(Click on a game score to view that game sheet)<br>
+Send stats corrections to <a href="mailto:truenorthstats@gmail.com?Subject=Stat change">
+                                        truenorthstats@gmail.com<br />
+                                    </a>You have 48 hours for games played / penalties and
+                                        14 days for goals and assists. </b>
+</font></p>
+        <div>
+	<table class="players" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder2_GridViewScheduleScore" width="100%">
+		<tr class="rowheader">
+			<th class="date" scope="col">Date</th><th class="time" scope="col">Time</th><th class="rink" scope="col">Rink</th><th class="team" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewScheduleScore&#39;,&#39;Sort$home_name&#39;)">Home</a></th><th class="score" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewScheduleScore&#39;,&#39;Sort$game_home_score&#39;)">Score</a></th><th class="team" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewScheduleScore&#39;,&#39;Sort$away_name&#39;)">Away</a></th><th class="score" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$GridViewScheduleScore&#39;,&#39;Sort$game_away_score&#39;)">Score</a></th>
+		</tr><tr class="rowodd">
+			<td class="date">Sep 14</td><td class="time">09:00 PM</td><td class="rink">Rinx 1</td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=163334" target="_blank">4</a></td><td class="team"><a href="Team.aspx?team_id=16893">Shock</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=163334" target="_blank">6</a></td>
+		</tr><tr class="roweven">
+			<td class="date">Sep 21</td><td class="time">05:15 PM</td><td class="rink">Rinx 2</td><td class="team"><a href="Team.aspx?team_id=17148">Lucky Pucks</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=163516" target="_blank">6</a></td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=163516" target="_blank">6</a></td>
+		</tr><tr class="rowodd">
+			<td class="date">Sep 28</td><td class="time">10:00 PM</td><td class="rink">Rinx 3</td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=163746" target="_blank">5</a></td><td class="team"><a href="Team.aspx?team_id=17111">Thrashers</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=163746" target="_blank">6</a></td>
+		</tr><tr class="roweven">
+			<td class="date">Oct 05</td><td class="time">02:45 PM</td><td class="rink">Rinx 2</td><td class="team"><a href="Team.aspx?team_id=17197">Zulus</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=163902" target="_blank">6</a></td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=163902" target="_blank">1</a></td>
+		</tr><tr class="rowodd">
+			<td class="date">Oct 19</td><td class="time">07:30 PM</td><td class="rink">Rinx 3</td><td class="team"><a href="Team.aspx?team_id=17114">Bears</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=164224" target="_blank">7</a></td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=164224" target="_blank">6</a></td>
+		</tr><tr class="roweven">
+			<td class="date">Oct 26</td><td class="time">10:15 PM</td><td class="rink">Rinx 2</td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=164444" target="_blank">3</a></td><td class="team"><a href="Team.aspx?team_id=17207">Hard 4 Whaletails</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=164444" target="_blank">1</a></td>
+		</tr><tr class="rowodd">
+			<td class="date">Nov 02</td><td class="time">05:00 PM</td><td class="rink">Rinx 3</td><td class="team"><a href="Team.aspx?team_id=17168">Ragers</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=164613" target="_blank">2</a></td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=164613" target="_blank">3</a></td>
+		</tr><tr class="roweven">
+			<td class="date">Nov 09</td><td class="time">07:00 PM</td><td class="rink">MasterCard 3</td><td class="team"><a href="Team.aspx?team_id=17211">Screaming Eagles</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=164821" target="_blank">6</a></td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=164821" target="_blank">4</a></td>
+		</tr><tr class="rowodd">
+			<td class="date">Nov 16</td><td class="time">02:45 PM</td><td class="rink">Rinx 2</td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=165016" target="_blank">3</a></td><td class="team"><a href="Team.aspx?team_id=17145">Beer Raiders</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=165016" target="_blank">6</a></td>
+		</tr><tr class="roweven">
+			<td class="date">Nov 23</td><td class="time">07:30 PM</td><td class="rink">Rinx 3</td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=165199" target="_blank">5</a></td><td class="team"><a href="Team.aspx?team_id=16991">67's</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=165199" target="_blank">4</a></td>
+		</tr><tr class="rowodd">
+			<td class="date">Nov 30</td><td class="time">08:30 PM</td><td class="rink">Rinx 2</td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=165403" target="_blank">2</a></td><td class="team"><a href="Team.aspx?team_id=17207">Hard 4 Whaletails</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=165403" target="_blank">2</a></td>
+		</tr><tr class="roweven">
+			<td class="date">Dec 07</td><td class="time">10:15 PM</td><td class="rink">Rinx 1</td><td class="team"><a href="Team.aspx?team_id=17168">Ragers</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=165619" target="_blank">5</a></td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=165619" target="_blank">1</a></td>
+		</tr><tr class="rowodd">
+			<td class="date">Dec 14</td><td class="time">01:15 PM</td><td class="rink">Rinx 3</td><td class="team"><a href="Team.aspx?team_id=17211">Screaming Eagles</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=165766" target="_blank">3</a></td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=165766" target="_blank">3</a></td>
+		</tr><tr class="roweven">
+			<td class="date">Dec 21</td><td class="time">10:45 PM</td><td class="rink">MasterCard 2</td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166015" target="_blank">2</a></td><td class="team"><a href="Team.aspx?team_id=17145">Beer Raiders</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166015" target="_blank">5</a></td>
+		</tr><tr class="rowodd">
+			<td class="date">Dec 28</td><td class="time">03:45 PM</td><td class="rink">Rinx 3</td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166081" target="_blank">4</a></td><td class="team"><a href="Team.aspx?team_id=16991">67's</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166081" target="_blank">3</a></td>
+		</tr><tr class="roweven">
+			<td class="date">Jan 04</td><td class="time">08:30 PM</td><td class="rink">Rinx 2</td><td class="team"><a href="Team.aspx?team_id=17207">Hard 4 Whaletails</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166157" target="_blank">5</a></td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166157" target="_blank">2</a></td>
+		</tr><tr class="rowodd">
+			<td class="date">Jan 11</td><td class="time">02:00 PM</td><td class="rink">MasterCard 3</td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166320" target="_blank">8</a></td><td class="team"><a href="Team.aspx?team_id=17168">Ragers</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166320" target="_blank">4</a></td>
+		</tr><tr class="roweven">
+			<td class="date">Jan 18</td><td class="time">07:30 PM</td><td class="rink">Rinx 3</td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166529" target="_blank">0</a></td><td class="team"><a href="Team.aspx?team_id=17211">Screaming Eagles</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166529" target="_blank">5</a></td>
+		</tr><tr class="rowodd">
+			<td class="date">Jan 25</td><td class="time">04:45 PM</td><td class="rink">Rinx 2</td><td class="team"><a href="Team.aspx?team_id=17145">Beer Raiders</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166705" target="_blank">4</a></td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166705" target="_blank">1</a></td>
+		</tr><tr class="roweven">
+			<td class="date">Feb 01</td><td class="time">10:15 PM</td><td class="rink">Rinx 1</td><td class="team"><a href="Team.aspx?team_id=16991">67's</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166938" target="_blank">7</a></td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=166938" target="_blank">2</a></td>
+		</tr><tr class="rowodd">
+			<td class="date">Feb 08</td><td class="time">12:00 PM</td><td class="rink">Rinx 3</td><td class="team"><a href="Team.aspx?team_id=17178">Toronto Ice Dogs</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=167081" target="_blank">3</a></td><td class="team"><a href="Team.aspx?team_id=17207">Hard 4 Whaletails</a></td><td class="score"><a href="tnhcGameSheetPrint.aspx?gameid=167081" target="_blank">4</a></td>
+		</tr>
+	</table>
+</div>
+    </div>
+
+
+    </form>
+<p>
+  </div>
+</td><td>
+<div id="RightDiv">
+<body style="height: 100%;">
+<table stylestyle="height: 100%;" width="167" height="100%" border="2" cellpadding="2" cellspacing="0" bordercolor="#CC0000" bgcolor="#FFFFFF">
+<tr>
+<td valign="top" align="center">
+
+
+<p><br />
+  <a href="https://www.facebook.com/pages/True-North-Hockey-Canada/608615589151976?fref=ts " target="_blank"><img src="/facebook/LikeUs01.png" width="124" height="49" border="0" /></a></p>
+<p><img src="/Promotions/ProShop/ProShopLogo01.gif" alt="ProShopLogo01.gif" width="160" height="132" /></p>
+<p><a href="http://www.truenorthhockey.com/pgs/arenas.aspx#mccentre"><img src="/Promotions/MCCentre/mccentrelogo2.gif" alt="mccentrelogo2.gif" width="118" height="80" border="0" /></a></p>
+      <p><a href="http://www.truenorthhockey.com/pgs/arenas.aspx#mattamy"><img src="/pics/mattamy01.jpg" alt="Mattamy Centre" width="134" height="119" border="0" /></a></p>
+      <p><a href="http://www.truenorthhockey.com/pgs/arenas.aspx#ricoh"><img src="/pics/ricohlogo1.gif" alt="ricohlogo1.gif" width="81" height="57" border="0" /></a></p>
+      <p><a href="http://www.truenorthhockey.com/pgs/arenas.aspx#brampton"><img src="/pics/Powerademed2.jpg" alt="Powerademed2.jpg" width="160" height="64" border="0" /></a></p>
+      <p><a href="http://www.truenorthhockey.com/pgs/arenas.aspx#rinx"><img src="/pics/RinxLogo01.png" alt="LO_rinx.gif" width="114" height="63" border="0" /></a></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p></td>
+</tr>
+</table>
+
+</div>
+</td></tr></table>
+<table width="930" height="19" border="0" cellpadding="0" cellspacing="0" background="/Pagepieces2/bar02.gif">
+<tr> 
+<td height="19"> <div align="center"><font color="#999999" size="1" face="Arial, Helvetica, sans-serif"><strong>&copy; 
+        2015 True North Hockey
+                Canada &#8226; Site Design &amp; Maintenance by 
+    <a href="http://www.deluxe-content.com" target="_blank">Deluxe-Content.com</a></strong></font></div></td>
+</tr>
+</table>
+</div>
+
+</p>
+<p align="center">&nbsp;</p>
+</body>
+</html>

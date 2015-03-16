@@ -1,0 +1,605 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <title>True North Hockey Canada Game Sheet</title>
+    <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type" />
+    <style type="text/css">
+        @media Print
+        {
+            .print-class
+            {
+                display: none;
+            }
+            P
+            {
+                font-family: arial,verdana;
+                font-size: 10px;
+            }
+            TD
+            {
+                font-family: arial,verdana;
+                font-size: 10px;
+            }
+            .title
+            {
+                font-size: 14px;
+                font-weight: bold;
+            }
+            .tablewidth
+            {
+                width: 650px;
+            }
+            .columnwidth
+            {
+                width: 320px;
+            }
+        }
+        P
+        {
+            font-family: arial,verdana;
+            font-size: 10px;
+        }
+        TD
+        {
+            font-family: arial,verdana;
+            font-size: 10px;
+        }
+        .title
+        {
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .tablewidth
+        {
+            width: 650px;
+        }
+        .columnwidth
+        {
+            width: 320px;
+        }
+        BODY
+        {
+            border-bottom: 0px solid;
+            border-left: 0px solid;
+            margin: 0px;
+            border-top: 0px solid;
+            border-right: 0px solid;
+        }
+        .sectionheading
+        {
+            font-weight: bold;
+            font-size: 14px;
+        }
+        .visitorsectionheading
+        {
+            background-color: #e7e7e7;
+            color: #000000;
+            font-weight: bold;
+        }
+        .homesectionheading
+        {
+            background-color: #e7e7e7;
+            color: #000000;
+            font-weight: bold;
+        }
+        .teamHeading
+        {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .heading
+        {
+            font-weight: bold;
+        }
+        .totalRow
+        {
+            font-size: 10px;
+            font-weight: bold;
+        }
+        .bold
+        {
+            font-weight: bold;
+        }
+        .border
+        {
+            border-bottom: black 1px solid;
+            border-left: black 1px solid;
+            border-collapse: collapse;
+            border-top: black 1px solid;
+            border-right: black 1px solid;
+        }
+        .noborder
+        {
+            border-bottom: black 0px solid;
+            border-left: black 0px solid;
+            border-collapse: collapse;
+            border-top: black 0px solid;
+            border-right: black 0px solid;
+        }
+        .tborder
+        {
+            border-top: black 1px solid;
+        }
+        .bborder
+        {
+            border-bottom: black 1px solid;
+        }
+        .lborder
+        {
+            border-left: black 1px solid;
+        }
+        .rborder
+        {
+            border-right: black 1px solid;
+        }
+        .oddColor
+        {
+            background-color: #e7e7e7;
+        }
+        .evenColor
+        {
+            background-color: #ffffff;
+        }
+        .italic
+        {
+            font-style: italic;
+        }
+        .spacer
+        {
+            height: 5px;
+            font-size: 1px;
+        }
+    </style>
+    <meta name="GENERATOR" content="MSHTML 8.00.7601.17573" />
+</head>
+<body style="margin-left: 0; margin-top: 0;">
+    <form method="post" action="tnhcGameSheetPrint.aspx?gameid=163334" id="frmGamesheet">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+    <script type="text/javascript" language="javascript" defer="defer"><!--
+        //Disable right mouse click Script
+
+        function clickIE4() {
+            if (event.button == 2) {
+                return false;
+            }
+        }
+
+        function clickNS4(e) {
+            if (document.layers || document.getElementById && !document.all) {
+                if (e.which == 2 || e.which == 3) {
+                    return false;
+                }
+            }
+        }
+
+        if (document.layers) {
+            document.captureEvents(Event.MOUSEDOWN);
+            document.onmousedown = clickNS4;
+        }
+        else if (document.all && !document.getElementById) {
+            document.onmousedown = clickIE4;
+        }
+
+        document.oncontextmenu = new Function("return false");
+		
+			--></script>
+
+    <table id="MainTable" class="tablewidth" border="0" cellspacing="0" cellpadding="0"
+        style="margin-right: auto; margin-left: auto;">
+        <tbody>
+            <tr>
+                <td style="width: 100%" align="center">
+                    <table id="StdHeader" border="0" cellspacing="0" cellpadding="0" width="100%">
+                        <tbody>
+                            <tr>
+                                <td style="font-size: 24px; font-weight: bold" align="center">
+                                <img src="../pics/TNHClogo_med_wht.png" alt="" style="border: 0" /><br /></td>
+                            </tr>
+                            <tr>
+                                <td style="width: 100%" align="center">
+                                    <table border="0" cellspacing="5" cellpadding="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td class="teamHeading" style="width: 50%" align="center">
+                                                    <span id="lblLeague">Winter 2014/15 - Toronto - Sunday - Mahovlich</span>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center">
+                                    <table border="0" cellspacing="0" cellpadding="0" width="100%" style="margin-right: auto;
+                                        margin-left: auto;">
+                                        <tbody>
+                                            <tr>
+                                                <td valign="top">
+                                                    <table id="Home" border="0" cellspacing="0" cellpadding="0" style="margin-right: auto;
+                                                        margin-left: auto;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>
+                                                                    <table border="0" cellspacing="10" cellpadding="4" style="margin-right: auto; margin-left: auto;">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td style="font-size: 40px; font-weight: bold" align="center">
+                                                                                    <span id="lblHomeScore">4</span>
+                                                                                </td>
+                                                                                <td align="center">
+                                                                                    <img id="imgHomeLogo" src="/TeamLogos/1TNHC.png" alt="Toronto Ice Dogs" height="120" width="120" />
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                                <td>
+                                                    <table id="GameInfo" border="0" cellspacing="0" cellpadding="0" style="margin-right: auto;
+                                                        margin-left: auto;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td style="font-size: 18px; font-weight: bold" align="center">
+                                                                    Game Sheet
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style="font-size: 14px; font-weight: bold" align="center">&nbsp;
+                                                                    
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style="font-size: 10px; font-weight: bold" align="center">
+                                                                    <span id="lblGameDate">Sunday Sep 14, 2014</span>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style="font-size: 10px; font-weight: bold" align="center">
+                                                                    <span id="lblScheduleTime">9:00PM</span>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style="font-size: 10px; font-weight: bold" align="center">
+                                                                    <span id="lblLocation">Rinx 1</span>
+                                                                </td>
+                                                            </tr>
+                                                            <!--removed the game type for now, will likely reintroduce later
+                                                            <tr>
+                                                                <td style="font-size: 10px; font-weight: bold" align="center">
+                                                                    <span id="lblGameType">Regular Season</span>
+                                                                </td>
+                                                            </tr>
+                                                            -->
+                                                            <tr>
+                                                                <td style="font-size: 10px; font-weight: bold" align="center">
+                                                                    <span id="lblGameStatus">Final</span>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style="font-size: 10px; font-weight: bold" align="center">
+                                                                    <span id="lblReferee1">Ref: 40</span>&nbsp;&nbsp;<span id="lblReferee2">Ref: 95</span>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                                <td valign="top">
+                                                    <table id="Visitor" border="0" cellspacing="0" cellpadding="0" style="margin-right: auto;
+                                                        margin-left: auto;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>
+                                                                    <table border="0" cellspacing="10" cellpadding="4" style="margin-right: auto; margin-left: auto;">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center">
+                                                                                    <img id="imgVisitorLogo" src="/TeamLogos/1TNHC.png" alt="Shock" height="120" width="120" />
+                                                                                </td>
+                                                                                <td style="font-size: 40px; font-weight: bold" align="center">
+                                                                                    <span id="lblVisitorScore">6</span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style="font-size: 10px; font-weight: bold" align="center">
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 100%" align="center">
+                    <table border="0" cellspacing="5" cellpadding="0" width="100%">
+                        <tbody>
+                            <tr><hr>
+                                <td class="teamHeading border" style="width: 50%" align="center">
+                                    <span id="lblHomeTeamName">Home: Toronto Ice Dogs</span>
+                                </td>
+                                <td class="teamHeading border" style="width: 50%" align="center">
+                                    <span id="lblVisitorTeamName">Away: Shock</span>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td class="spacer" style="width: 100%">&nbsp;
+                    
+                </td>
+            </tr>
+            <tr valign="top">
+                <td style="width: 100%">
+                    <table id="Table1" border="0" cellspacing="0" cellpadding="0" width="100%">
+                        <tbody>
+                            <tr>
+                                <td class="sectionheading" align="center" valign="middle">
+                                    PLAYER / GAME SUMMARY
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table border="0" cellspacing="5" cellpadding="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td class="border" valign="top" style="width: 50%">
+                                                    <span id="lblHomeGoalie"><b>Goalie: Alexander Hosking</b></span><div>
+	<table cellspacing="0" rules="all" border="1" id="grdHomeRoster" width="100%">
+		<caption align="Top">
+			<table width="100%" cellpadding="0" cellspacing="0"><tr><td class="heading bborder">GAME ROSTER</td></tr></table>
+		</caption><tr>
+			<th class="heading bborder" scope="col">#</th><th class="heading bborder" scope="col">Name</th><th class="heading bborder" scope="col">Goals</th><th class="heading bborder" scope="col">Assists</th><th class="heading bborder" scope="col">Points</th><th class="heading bborder" scope="col">PIM</th>
+		</tr><tr class="evenColor">
+			<td>G</td><td>Alexander Hosking</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr class="oddColor">
+			<td>4</td><td>Aitor Sabate</td><td>0</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr class="evenColor">
+			<td>9</td><td>Richard Lopez</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr class="oddColor">
+			<td>15</td><td>Dan Sooley</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr class="evenColor">
+			<td>16</td><td>Carlos Asuncion</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr class="oddColor">
+			<td>17</td><td>Angelo Capone</td><td>1</td><td>0</td><td>1</td><td>0</td>
+		</tr><tr class="evenColor">
+			<td>22</td><td>David Barth</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr class="oddColor">
+			<td>26</td><td>Eyal Cohen</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr class="evenColor">
+			<td>33</td><td>Clifford DeWolf</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr class="oddColor">
+			<td>55</td><td>Nelson Lafreniere</td><td>2</td><td>1</td><td>3</td><td>0</td>
+		</tr><tr class="evenColor">
+			<td>61</td><td>Larry Cameron</td><td>1</td><td>1</td><td>2</td><td>2</td>
+		</tr><tr class="oddColor">
+			<td>68</td><td>Eric Phillipson</td><td>0</td><td>1</td><td>1</td><td>2</td>
+		</tr>
+	</table>
+</div>
+                                                </td>
+                                                <td class="border" valign="top" style="width: 50%">
+                                                    <span id="lblVisitorGoalie"><b>Goalie: Prashath Perry</b></span>
+                                                    <div>
+	<table cellspacing="0" rules="all" border="1" id="grdVisitorRoster" width="100%">
+		<caption align="Top">
+			<table width="100%" cellpadding="0" cellspacing="0"><tr><td class="heading bborder">GAME ROSTER</td></tr></table>
+		</caption><tr>
+			<th class="heading bborder" scope="col">#</th><th class="heading bborder" scope="col">Name</th><th class="heading bborder" scope="col">Goals</th><th class="heading bborder" scope="col">Assists</th><th class="heading bborder" scope="col">Points</th><th class="heading bborder" scope="col">PIM</th>
+		</tr><tr class="evenColor">
+			<td align="center">3</td><td>Blake Hurley</td><td>0</td><td>1</td><td>1</td><td>2</td>
+		</tr><tr class="oddColor">
+			<td align="center">6</td><td>Chris Ling</td><td>1</td><td>1</td><td>2</td><td>0</td>
+		</tr><tr class="evenColor">
+			<td align="center">10</td><td>Dean Tseretopoulos</td><td>0</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr class="oddColor">
+			<td align="center">12</td><td>Rui Gomes</td><td>0</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr class="evenColor">
+			<td align="center">18</td><td>Scott Williams</td><td>1</td><td>0</td><td>1</td><td>0</td>
+		</tr><tr class="oddColor">
+			<td align="center">21</td><td>Mike Dover</td><td>0</td><td>1</td><td>1</td><td>2</td>
+		</tr><tr class="evenColor">
+			<td align="center">24</td><td>Bart Giero</td><td>3</td><td>0</td><td>3</td><td>0</td>
+		</tr><tr class="oddColor">
+			<td align="center">29</td><td>Prashath Perry</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr class="evenColor">
+			<td align="center">85</td><td>Amar Kher</td><td>1</td><td>1</td><td>2</td><td>0</td>
+		</tr><tr class="oddColor">
+			<td align="center">87</td><td>Ben Thorek</td><td>0</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr class="evenColor">
+			<td align="center">89</td><td>Jessica Giero</td><td>0</td><td>2</td><td>2</td><td>0</td>
+		</tr><tr class="oddColor">
+			<td align="center">96</td><td>Daniel Yanowski</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr>
+	</table>
+</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td class="spacer" style="width: 100%">&nbsp;
+                    
+                </td>
+            </tr>
+            <tr valign="top">
+                <td style="width: 100%" align="center">
+                    <table id="ScoringSummary" border="0" cellspacing="0" cellpadding="0" width="100%">
+                        <tbody>
+                            <tr>
+                                <td class="sectionheading" align="center" valign="middle">
+                                    SCORING DETAILS
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table border="0" cellspacing="5" cellpadding="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td class="border" valign="top" style="width: 50%" align="center">
+                                                    <div>
+	<table cellspacing="0" rules="all" border="1" id="grdHomeScoring" width="100%">
+		<caption align="Top">
+			<table width="100%" cellpadding="0" cellspacing="0"><tr><td class="heading bborder">PLAYERS</td></tr></table>
+		</caption><tr>
+			<th class="heading bborder" scope="col">Per</th><th class="heading bborder" scope="col">Time</th><th class="heading bborder" scope="col">Goal</th><th class="heading bborder" scope="col">Assist #1</th><th class="heading bborder" scope="col">Assist #2</th>
+		</tr><tr class="evenColor">
+			<td>2</td><td>02:30</td><td>61</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr class="oddColor">
+			<td>2</td><td>01:50</td><td>55</td><td>61</td><td>4</td>
+		</tr><tr class="evenColor">
+			<td>3</td><td>06:04</td><td>17</td><td>55</td><td>68</td>
+		</tr><tr class="oddColor">
+			<td>3</td><td>03:03</td><td>55</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>
+                                                </td>
+                                                <td class="border" valign="top" style="width: 50%" align="center">
+                                                    <div>
+	<table cellspacing="0" rules="all" border="1" id="grdVisitorScoring" width="100%">
+		<caption align="Top">
+			<table width="100%" cellpadding="0" cellspacing="0"><tr><td class="heading bborder">PLAYERS</td></tr></table>
+		</caption><tr>
+			<th class="heading bborder" scope="col">Per</th><th class="heading bborder" scope="col">Time</th><th class="heading bborder" scope="col">Goal</th><th class="heading bborder" scope="col">Assist #1</th><th class="heading bborder" scope="col">Assist #2</th>
+		</tr><tr class="evenColor">
+			<td>1</td><td>13:00</td><td>6</td><td>85</td><td>10</td>
+		</tr><tr class="oddColor">
+			<td>1</td><td>04:39</td><td>24</td><td>21</td><td>&nbsp;</td>
+		</tr><tr class="evenColor">
+			<td>1</td><td>03:17</td><td>24</td><td>89</td><td>3</td>
+		</tr><tr class="oddColor">
+			<td>2</td><td>14:08</td><td>24</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr class="evenColor">
+			<td>2</td><td>10:25</td><td>18</td><td>6</td><td>87</td>
+		</tr><tr class="oddColor">
+			<td>3</td><td>01:24</td><td>85</td><td>12</td><td>89</td>
+		</tr>
+	</table>
+</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td class="spacer" style="width: 100%">&nbsp;
+                    
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table id="PenaltySummary" border="0" cellspacing="0" cellpadding="0" width="100%">
+                        <tbody>
+                            <tr>
+                                <td class="sectionheading" align="center" valign="middle">
+                                    PENALTY DETAILS
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table border="0" cellspacing="5" cellpadding="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td class="border" valign="top" style="width: 50%" align="center">
+                                                    <div>
+	<table cellspacing="0" rules="all" border="1" id="grdHomePenalties" width="100%">
+		<tr>
+			<th class="heading bborder" scope="col">Per</th><th class="heading bborder" scope="col">Time</th><th class="heading bborder" scope="col">Player</th><th class="heading bborder" scope="col">PIM</th><th class="heading bborder" scope="col">Penalty</th>
+		</tr><tr class="evenColor">
+			<td>1</td><td>06:57</td><td>61</td><td>2</td><td>Holding</td>
+		</tr><tr class="oddColor">
+			<td>3</td><td>01:05</td><td>68</td><td>2</td><td>Tripping</td>
+		</tr>
+	</table>
+</div>
+                                                </td>
+                                                <td class="border" valign="top" style="width: 50%" align="center">
+                                                    <div>
+	<table cellspacing="0" rules="all" border="1" id="grdVisitorPenalties" width="100%">
+		<tr>
+			<th class="heading bborder" scope="col">Per</th><th class="heading bborder" scope="col">Time</th><th class="heading bborder" scope="col">Player</th><th class="heading bborder" scope="col">PIM</th><th class="heading bborder" scope="col">Penalty</th>
+		</tr><tr class="evenColor">
+			<td>2</td><td>13:52</td><td>21</td><td>2</td><td>Slashing</td>
+		</tr><tr class="oddColor">
+			<td>3</td><td>09:36</td><td>3</td><td>2</td><td>Interference</td>
+		</tr>
+	</table>
+</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td class="spacer" style="width: 100%">&nbsp;
+                    
+                </td>
+            </tr>
+            <br />
+            <br />
+            <tr valign="top">
+                <td class="border" style="width: 100%">
+                    <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                        <tbody>
+                            <tr valign="top">
+                                <td class="sectionheading rborder" style="width: 50%" align="center" valign="middle">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="rborder" style="width: 50%" align="center">
+                                    <b>Send stats corrections to <a href="mailto:truenorthstats@gmail.com?Subject=Stat change">
+                                        truenorthstats@gmail.com<br />
+                                    </a>You have 48 hours for games played / penalties and
+                                        14 days for goals and assists. </b>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="rborder" style="width: 50%" align="center">
+                                    4920 Dundas St. W. Ste 304, Toronto, ON, M9A 1B7 - Tel: (416) 231-8642 - Fax: (416)
+                                    231-3501 - email: info@truenorthhockey.com
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    </form>
+</body>
+</html>

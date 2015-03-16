@@ -60,7 +60,7 @@ for i in playerCount:
     #     soup.find_all('table')[8].findAll('tr')[i].findAll('td')[5].string,"\t",\
     #     soup.find_all('table')[8].findAll('tr')[i].findAll('td')[6].string
 #Add the players!
-add_players(players)
+# add_players(players)
 
 
 #Table 9 seems to carry all goalie data
@@ -111,18 +111,21 @@ for i in schedCount:
     #     soup.find_all('table')[10].findAll('tr')[i].findAll('td')[4].string,\
     #     soup.find_all('table')[10].findAll('tr')[i].findAll('td')[5].string,\
     #     soup.find_all('table')[10].findAll('tr')[i].findAll('td')[6].string
-add_games(games)
+# add_games(games)
 
-print "\n-------------------------------------------------------------------\n"
+print "\n-------------------------------------------------------------------"
 print "Game Sheet\n"
+for i in games:
+    print i[8]
+print
 testSheet = ("http://www.truenorthhockey.com/asp_pages/" + games[1][8])
 print testSheet
-gameSoup = BeautifulSoup(urllib2.urlopen(testSheet).read())
+# gameSoup = BeautifulSoup(urllib2.urlopen(testSheet).read())
 
-print gameSoup.prettify()
+# print gameSoup.prettify()
 
 #We need to find links to the score sheets
-# print (soup.find_all('table')[10].findAll('tr')[6].findAll('a')[1]).get('href')
+print (soup.find_all('table')[10].findAll('tr')[6].findAll('a')[1]).get('href')
 
 ##################################
 ##Game Sheets
